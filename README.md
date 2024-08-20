@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @EddyDev1
 - 👀 I’m interested in web development and software engineering
-- 🌱 I’m currently learning the MEAN Stack framework
-- 🌱 I'm refining my graph and trees skills in c++/py3
-- 💞️ I’m looking to collaborate on any web or software project
+- 🌱 I’m currently building upon REACT+TS and Java
+- 🌱 I'm refining my frontend and backend skills
+- 💞️ I’m looking for full-time job opportunities
 - 📫 How to reach me edsant2021@gmail.com
 
 <!---
