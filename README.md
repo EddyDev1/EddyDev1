@@ -2,7 +2,6 @@
 - 👀 I’m interested in web development and software engineering
 - 🌱 I’m currently building upon REACT+TS and Java
 - 🌱 I'm refining my frontend and backend skills
-- 💞️ I’m looking for full-time job opportunities
 - 📫 How to reach me edsant2021@gmail.com
 
 <!---
